@@ -7,7 +7,7 @@ name = "common"
 version = "0.1.0"
 
 [[package]]
-name = "day01-pt1"
+name = "day03-pt1"
 version = "0.1.0"
 dependencies = [
  "common",
